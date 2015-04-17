@@ -1,0 +1,9 @@
+{
+  "name": "json-c",
+  "version": "0.1.0",
+  "repo": "hjanuschka/json-c",
+  "description": "embedded libjson0/json-c",
+  "keywords": ["json", "json0", "json-c"],
+  "license": "MIT",
+  "src": ["arraylist.c","arraylist.h","bits.h","debug.c","debug.h","json.h","json_c_version.c","json_c_version.h","json_inttypes.h","json_object.c","json_object.h","json_object_iterator.c","json_object_iterator.h","json_object_private.h","json_tokener.c","json_tokener.h","json_util.c","json_util.h","libjson.c","linkhash.c","linkhash.h","math_compat.h","printbuf.c","printbuf.h","random_seed.c","random_seed.h"]
+}
